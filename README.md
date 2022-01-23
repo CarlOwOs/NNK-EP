@@ -17,7 +17,7 @@ The repository contains two folders.
 * [`graph_utils.py`](./utils/data.py) has some auxiliary functions used in the NNK-EP implementation.
 * [`non_neg_qpsolver.py`](./utils/non_neg_qpsolver.py) is a solver for solving non negative quadratic programs with positive definite matrices.
 
-[`train`](./train) conteins the scripts necessary for testing the algorithm, including the training setup, auxiliary functions and the graph models:
+[`train`](./train) contains the scripts necessary for testing the algorithm, including the training setup, auxiliary functions and the graph models:
 * [`graph_model.py`](./train/graph_model.py) Graph models used for the testing of the algorthm.
 * [`metrics.py`](./train/metrics.py) File containing the metrics class, used to keep track of the performance of the models in training and testing.
 * [`tran_proteins.py`](./train/tran_proteins.py) Testing framework for the PROTEINS dataset, a graph classification dataset.
