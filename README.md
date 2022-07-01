@@ -2,12 +2,6 @@
 
 > Implementation of the Non-Negative Kernel regression - Edge Pooling algorithm as well as a framework to test the algorithm.
 
-This project consists of a [Telegram](https://www.upc.edu/ca)®  bot developed in Python which answers either
-with text or images to questions related to geometric graphs defined over the
-[Bicing](https://www.bicing.barcelona/es)® stations in the city of Barcelona.
-
-
-
 ## File Architecture
 
 The repository contains two folders.
